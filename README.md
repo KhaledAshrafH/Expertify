@@ -32,9 +32,6 @@ The Person Template module defines a template for representing a person, includi
 
 Each module within the repository can be executed independently. They can be integrated into a larger system or used as standalone expert systems. The implementation utilizes the CLIPS programming language and framework, which should be installed in the execution environment to run the modules successfully.
 
-## Additional Notes
-
-
 
 ## Contributing
 
